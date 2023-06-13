@@ -1,0 +1,17 @@
+[
+  {
+    "VisitanteID": 1,
+    "Nome": "Maria Santos",
+    "Relacionamento": "Amiga"
+  },
+  {
+    "VisitanteID": 2,
+    "Nome": "Carlos Mendes",
+    "Relacionamento": "Familiar"
+  },
+  {
+    "VisitanteID": 3,
+    "Nome": "Ana Pereira",
+    "Relacionamento": "Advogada"
+  }
+]

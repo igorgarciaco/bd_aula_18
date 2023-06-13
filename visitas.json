@@ -1,0 +1,26 @@
+[
+  {
+    "VisitaID": 1,
+    "DetentoID": 1,
+    "VisitanteID": 1,
+    "DataVisita": "2023-06-13",
+    "HoraEntrada": "10:00",
+    "HoraSaida": "11:00"
+  },
+  {
+    "VisitaID": 2,
+    "DetentoID": 2,
+    "VisitanteID": 2,
+    "DataVisita": "2023-06-14",
+    "HoraEntrada": "09:30",
+    "HoraSaida": "10:30"
+  },
+  {
+    "VisitaID": 3,
+    "DetentoID": 3,
+    "VisitanteID": 3,
+    "DataVisita": "2023-06-15",
+    "HoraEntrada": "14:00",
+    "HoraSaida": "15:00"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "DetentoID": 1,
+    "Nome": "João Silva",
+    "Bloco": "A",
+    "Cela": "101"
+  },
+  {
+    "DetentoID": 2,
+    "Nome": "Pedro Santos",
+    "Bloco": "B",
+    "Cela": "202"
+  },
+  {
+    "DetentoID": 3,
+    "Nome": "Maria Oliveira",
+    "Bloco": "C",
+    "Cela": "303"
+  }
+]
